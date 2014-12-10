@@ -7,7 +7,7 @@ module.exports = function(grunt) {
 	grunt.initConfig({
 		
 		//path to the theme folder, relative to this Gruntfile
-		DIR_BASE : '../themes/pp_boilerplate56',
+		DIR_BASE : '../themes/themeName',
 
 		pkg: grunt.file.readJSON('package.json'),
 
