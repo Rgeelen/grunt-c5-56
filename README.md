@@ -21,6 +21,7 @@ Included Tasks
 
 ## Directories
 The Gruntfile is assuming the following theme folder structure.
+
 /themename  
 /themename/js  
 /themename/css  
